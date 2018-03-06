@@ -1,15 +1,3 @@
-/**
- * Tetris.java  4/30/2014
- *
- * @author - Jane Doe
- * @author - Period n
- * @author - Id nnnnnnn
- *
- * @author - I received help from ...
- *
- */
-
-// Represents a Tetris game.
 public class Tetris
 {
 	private BoundedGrid<Block> grid;	// The grid containing the Tetris pieces.
