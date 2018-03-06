@@ -1,14 +1,3 @@
-/**
- * Tetrad.java  4/30/2014
- *
- * @author - Jane Doe
- * @author - Period n
- * @author - Id nnnnnnn
- *
- * @author - I received help from ...
- *
- */
-
 import java.awt.Color;
 
 // Represents a Tetris piece.
